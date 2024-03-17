@@ -3,7 +3,7 @@ name: Say Hello
 on:
   push:
     branches:
-      - maìn
+      - main
 jobs:
   hello-world:
     runs-on: ubuntu-20.04
